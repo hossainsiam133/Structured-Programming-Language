@@ -72,4 +72,5 @@ void main()
     else
         printf("\nLetter grade of English is 'F'");
     getchar();
+    return 0;
 }
